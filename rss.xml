@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[RyanNorthcutt]]></title>
+        <description><![CDATA[RyanNorthcutt]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 09 May 2016 16:02:19 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Who is Ryan Northcutt?]]></title>
+            <description><![CDATA[<article><h1>Who is Ryan Northcutt?</h1><p>Hi, my name is Ryan. I am Christian, husband, father, CEO, pastor and teacher. I love helping people discover who they are in Christ, how to experience freedom in the Spirit, and how to live life by a spirit of wisdom and revelation. I am passionate about teaching people not only the Bible but also how to listen to the active voice of the Spirit. This website is dedicated to those who are tired of learning a lot of information about God and actually want to know Him. Blessings!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fb15502da875063395b11cbf772ae10c034b3fec.png"></article>]]></description>
+            <link>undefinedwho-is-ryan-northcutt/index.html</link>
+            <guid isPermaLink="false">7ff1dc1b-4bdd-4af5-9772-280bf7a649c8</guid>
+            <pubDate>Mon, 09 May 2016 16:01:31 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
